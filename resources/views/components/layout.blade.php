@@ -12,7 +12,7 @@
     <div class="container">
         {{ $slot }}
     </div>
-
+    <a href="/">Go back</a>
 </body>
 
 </html>
